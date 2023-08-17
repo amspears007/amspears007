@@ -1,8 +1,13 @@
-<h2 align="center"><b>Hi , I'm Amy </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h2 align="center"><b>Hi! Welcome to my GitHub </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-![Screenshot 2023-08-16 at 6 53 59 PM](https://github.com/amspears007/amspears007/assets/113188388/9650be42-d218-43d3-b661-0daff9d3682a)
+![Screenshot 2023-08-16 at 7 00 40 PM](https://github.com/amspears007/amspears007/assets/113188388/25542186-518d-4c4c-8d82-be05f9d420af)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amy-marie-spears-900997105) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amspears007@gmail.com)
+
+#### Experience With:
+- Ruby on Rails
+- SQL/Active Record
+- REST APIs
 
 #### What I Want To Learn Next:
 - GraphQL
