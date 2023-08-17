@@ -1,5 +1,8 @@
-![anas-alshanti-feXpdV001o4-unsplash](https://github.com/amspears007/amspears007/assets/113188388/58a6fd96-0343-4414-85a8-af930e95ae8e)
 
+![Screenshot 2023-08-16 at 6 45 03 PM](https://github.com/amspears007/amspears007/assets/113188388/17934b67-cd37-4e92-ba45-cd369695b032)
+
+![Screenshot 2023-08-16 at 6 48 50 PM](https://github.com/amspears007/amspears007/assets/113188388/9b2961c6-8d58-4489-8500-ea641c35bb58)
+![Screenshot 2023-08-16 at 6 51 10 PM](https://github.com/amspears007/amspears007/assets/113188388/3b37f42f-8e97-4941-9252-50d7d8081591)
 
 <!--
 **amspears007/amspears007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
