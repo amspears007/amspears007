@@ -14,9 +14,9 @@
 
 | Experience With            | What I Want To Learn Next |
 |----------------------------|--------------------------|
+| - Ruby on Rails            | - Python
 | - SQL/Active Record        | - JavaScript             |
 | - REST APIs                | - AWS                    |
-| - Ruby on Rails            | - Python
 
 
 </div>
