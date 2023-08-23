@@ -2,18 +2,27 @@
 
 ![Screenshot 2023-08-16 at 7 00 40 PM](https://github.com/amspears007/amspears007/assets/113188388/25542186-518d-4c4c-8d82-be05f9d420af)
 
+
+<div align="center">
+    
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amy-marie-spears-900997105) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amspears007@gmail.com)
 
-#### Experience With:
-- Ruby on Rails
-- SQL/Active Record
-- REST APIs
+</div>
 
-#### What I Want To Learn Next:
-- GraphQL
-- JavaScript
-- AWS
-- Python
+<div align="center">
+    
+
+| Experience With            | What I Want To Learn Next |
+|----------------------------|--------------------------|
+| - SQL/Active Record        | - JavaScript             |
+| - REST APIs                | - AWS                    |
+| - Ruby on Rails            | - Python
+
+
+</div>
+
+
+
 
 <!--
 **amspears007/amspears007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
